@@ -8,7 +8,8 @@ End-to-end SQL + Power BI project analyzing a D2C brand's marketing funnel — f
 
 ## 📊 Dashboard Preview
 
-Show Image
+<img width="1352" height="748" alt="funnel analysis" src="https://github.com/user-attachments/assets/64c7190e-5546-4d61-801e-2fc5f0b38742" />
+
 
 
 ## 🎯 Business Problem
