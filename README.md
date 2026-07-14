@@ -59,8 +59,6 @@ Overall Conversion Rate: 7.03%
 │
 ├── marketing_queries.sql
 ├── dashboard.pbix
-├── dashboard.png
-├── dataset.csv
 └── README.md
 ```
 
